@@ -1,3 +1,3 @@
 print("Hello world")
 print("Name : kamonchat")
-print("Nickname:Pinnn")
+print("Age : 22")
